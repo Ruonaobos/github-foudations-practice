@@ -1,1 +1,1 @@
-# github-foudations-practice
+# github-foundations-practice
