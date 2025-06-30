@@ -2,6 +2,5 @@
 
 ## Practicing GitHub Foundations
 - Edited, committed, and pushed from VS Code.
-
 ## About
-This repo is used for learning Git and GitHub fundamentals in depth.
+This repository is part of my GitHub Foundations Certification crash prep journey, focused on learning Git and GitHub fundamentals in depth.
